@@ -1,0 +1,27 @@
+{
+  "name": "remark-base",
+  "version": "0.0.1",
+  "description": "Remark base package for slideshows.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caal-15/remark-base.git"
+  },
+  "keywords": [
+    "remark",
+    "slideshow"
+  ],
+  "author": "Carlos González",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caal-15/remark-base/issues"
+  },
+  "homepage": "https://github.com/caal-15/remark-base#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
